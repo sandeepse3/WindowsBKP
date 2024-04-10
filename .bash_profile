@@ -1,0 +1,1 @@
+source /c/Users/sande/main/Scripts/activate

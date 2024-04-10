@@ -1,0 +1,47 @@
+{
+  "MarkdownCell": {
+    "cm_config": {
+      "lineWrapping": true
+    }
+  },
+  "CodeCell": {
+    "cm_config": {
+      "autoClosingBrackets": true,
+      "lineWrapping": true
+    }
+  },
+  "load_extensions": {
+    "nbextensions_configurator/config_menu/main": true,
+    "contrib_nbextensions_help_item/main": true,
+    "export_embedded/main": true,
+    "table_beautifier/main": true,
+    "hinterland/hinterland": true,
+    "code_prettify/autopep8": true,
+    "autosavetime/main": true,
+    "codefolding/main": true,
+    "code_font_size/code_font_size": true,
+    "keyboard_shortcut_editor/main": true,
+    "scratchpad/main": true,
+    "code_prettify/code_prettify": false,
+    "skip-traceback/main": false,
+    "collapsible_headings/main": true,
+    "snippets_menu/main": true,
+    "snippets/main": true,
+    "toc2/main": true,
+    "go_to_current_running_cell/main": true,
+    "rubberband/main": true,
+    "runtools/main": true
+  },
+  "autosavetime_starting_interval": "3",
+  "toc2": {
+    "toc_cell": false,
+    "sideBar": false,
+    "number_sections": false,
+    "toc_window_display": false
+  },
+  "Cell": {
+    "cm_config": {
+      "lineNumbers": true
+    }
+  }
+}

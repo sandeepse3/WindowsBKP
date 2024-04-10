@@ -1,0 +1,20 @@
+[core]
+	editor = \"C:\\Users\\sande\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+	autocrlf = true
+[user]
+	email = sandeepse3@gmail.com
+	name = Sandeep Puttur
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[init]
+	defaultBranch = main
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+[credential "https://github.com"]
+	username = sandeepse3

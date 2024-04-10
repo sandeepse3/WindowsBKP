@@ -1,0 +1,16 @@
+[
+    { 
+        "keys": ["super+f5"], "command": "run_existing_window_command", "args":
+            {
+                "id": "repl_python_run",
+                "file": "config/Python/Main.sublime-menu"
+            },
+    },
+    { "keys": ["super+shift+l"], "command": "find_all_under" },
+    { "keys": ["super+f2"], "command": "find_all_under" },
+    { "keys": ["super+b"], "command": "toggle_side_bar" },
+    { "keys": ["super+shift+b"], "command": "build" },
+    { "keys": ["alt+up"], "command": "swap_line_up" },
+    { "keys": ["alt+down"], "command": "swap_line_down" },
+    { "keys": ["super+alt+s"], "command": "auto_save" }
+]
