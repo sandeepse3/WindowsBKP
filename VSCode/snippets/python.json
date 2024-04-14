@@ -32,16 +32,16 @@
 			"# 1. Get the Data",
 			"$1",
 			"# 2. Make the Dataset Iterable",
-			""
+			"",
 			"# 3. Create Model Class",
-			""
+			"",
 			"# 4. Instantiate Model class",
-			""
+			"",
 			"# 5. Instantiate Loss class",
-			""
+			"",
 			"# 6. Instantiate Optimizer class",
-			""
-			"# 7. Train the Model"
+			"",
+			"# 7. Train the Model",
 			""
 		],
 		"description": "Basic Imports"

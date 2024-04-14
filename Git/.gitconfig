@@ -18,3 +18,5 @@
 	trustExitCode = true
 [credential "https://github.com"]
 	username = sandeepse3
+[safe]
+	directory = C:/Users/sande/SANDEEPFORAI/AHK
