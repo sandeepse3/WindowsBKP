@@ -1,10 +1,21 @@
+# VS Code
 rsync -av /mnt/c/Users/sande/AppData/Roaming/Code/User/settings.json /mnt/c/Users/sande/SANDEEPFORAI/WindowsBKP/VSCode/
 rsync -av /mnt/c/Users/sande/AppData/Roaming/Code/User/keybindings.json /mnt/c/Users/sande/SANDEEPFORAI/WindowsBKP/VSCode/
 rsync -av /mnt/c/Users/sande/AppData/Roaming/Code/User/snippets/ /mnt/c/Users/sande/SANDEEPFORAI/WindowsBKP/VSCode/snippets/
+
+# Sublime Text
 rsync -av --exclude='.SublimeREPLHistory' /mnt/c/Users/sande/AppData/Roaming/Sublime\ Text/Packages/User/ /mnt/c/Users/sande/SANDEEPFORAI/WindowsBKP/Sublime/User/
+
+# Jupyter Notebook
 rsync -av /mnt/c/Users/sande/.jupyter/nbconfig/ /mnt/c/Users/sande/SANDEEPFORAI/WindowsBKP/Jupyter/nbconfig/
+
+# Bash Profile
 rsync -av /mnt/c/Users/sande/.bash_profile /mnt/c/Users/sande/SANDEEPFORAI/WindowsBKP/
+
+# Git
 rsync -av /mnt/c/Program\ Files/Git/etc/profile.d/git-prompt.sh /mnt/c/Users/sande/SANDEEPFORAI/WindowsBKP/Git/
 rsync -av /mnt/c/Users/sande/.gitconfig /mnt/c/Users/sande/SANDEEPFORAI/WindowsBKP/Git/
+
+# AutoHotKey
 rsync -av /mnt/c/Users/sande/SANDEEPFORAI/AHK/WIN.ahk /mnt/c/Users/sande/SANDEEPFORAI/WindowsBKP/AHK/
 rsync -av /mnt/c/Users/sande/SANDEEPFORAI/AHK/SciTESettings.png /mnt/c/Users/sande/SANDEEPFORAI/WindowsBKP/AHK/
