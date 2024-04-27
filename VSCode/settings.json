@@ -191,10 +191,14 @@
         "plaintext": true
     },
     "bookmarks.saveBookmarksInProject": true,
-    "editor.minimap.enabled": false,
     "files.autoSaveDelay": 3000,
     "security.workspace.trust.untrustedFiles": "open",
     "remote.autoForwardPortsSource": "hybrid",
     "python.terminal.focusAfterLaunch": true,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "git.autofetch": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "editor.minimap.enabled": false
 }
