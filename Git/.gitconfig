@@ -20,3 +20,6 @@
 	username = sandeepse3
 [safe]
 	directory = C:/Users/sande/SANDEEPFORAI/AHK
+	directory = C:/Users/sande/SANDEEPFORAI/AI/LangChainLangSmith
+[gui]
+	recentrepo = C:/Users/sande/SANDEEPFORAI/WindowsBKP

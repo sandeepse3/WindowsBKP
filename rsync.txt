@@ -10,7 +10,7 @@ rsync -av --exclude='.SublimeREPLHistory' /mnt/c/Users/sande/AppData/Roaming/Sub
 rsync -av /mnt/c/Users/sande/.jupyter/nbconfig/ /mnt/c/Users/sande/SANDEEPFORAI/WindowsBKP/Jupyter/nbconfig/
 
 # Bash Profile
-rsync -av /mnt/c/Users/sande/.bash_profile /mnt/c/Users/sande/SANDEEPFORAI/WindowsBKP/
+rsync -av /mnt/c/Users/sande/.bash_profile /mnt/c/Users/sande/SANDEEPFORAI/WindowsBKP/GitBash/
 
 # Git
 rsync -av /mnt/c/Program\ Files/Git/etc/profile.d/git-prompt.sh /mnt/c/Users/sande/SANDEEPFORAI/WindowsBKP/Git/
