@@ -1,0 +1,17 @@
+{
+  "load_extensions": {
+    "export_embedded/main": true,
+    "autosavetime/main": true,
+    "code_prettify/autopep8": true,
+    "codefolding/main": true,
+    "comment-uncomment/main": true,
+    "rubberband/main": true,
+    "code_prettify/isort": false,
+    "toggle_all_line_numbers/main": true
+  },
+   "Cell": {
+    "cm_config": {
+      "lineWrapping": true
+    }
+  }
+}
